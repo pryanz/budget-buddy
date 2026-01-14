@@ -1,0 +1,21 @@
+{% extends 'base.html' %}
+{% block content %}
+<center>
+<div >
+    <h2>This is Budget Buddy , your one stop solution for personal finance tracker</h2>
+    
+    {% if current_user.is_authenticated %}
+    <h3>Welcome {{ current_user.username }} !!</h3>
+    <h3>Please visit your personalised<a class="article-title" href="{{ url_for('dashboard') }}">dashboard</a> to track your finances</h3>
+    {% else %}
+    <h3>Welcome , Please login to get best experience!!</h3>
+    <h3>Please <a class="article-title" href="{{ url_for('login') }}">login</a>
+        or <a class="article-title" href="{{ url_for('register') }}">register</a> to use full features
+    </h3>
+    {% endif %}
+</div>
+</center>
+
+
+
+{% endblock content %}

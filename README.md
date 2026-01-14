@@ -15,22 +15,13 @@ It features secure user authentication, a responsive dashboard, and a containeri
 
 ---
 
-## Screenshots
-
-| Landing Page | User Dashboard |
-|:---:|:---:|
-| <img src="app/static/screenshots/landing.png" width="400" alt="Landing Page"> | <img src="app/static/screenshots/dashboard.png" width="400" alt="Dashboard"> |
-*(Place screenshots in a folder named screenshots inside static, or delete this section if you don't have images yet)*
-
----
-
 ## Key Features
 
-* **🔐 Secure Authentication:** User registration and login system protected with Bcrypt hashing.
-* **📊 Interactive Dashboard:** dynamic overview of total expenses and recent activity.
-* **📝 Expense Tracking:** Create, Read, Update, and Delete (CRUD) expense records.
-* **📱 Responsive Design:** Built with Bootstrap 5 to work seamlessly on mobile and desktop.
-* **🐳 Containerized:** Fully Dockerized application ensuring consistency across development and production environments.
+* ** Secure Authentication:** User registration and login system protected with Bcrypt hashing.
+* ** Interactive Dashboard:** dynamic overview of total expenses and recent activity.
+* ** Expense Tracking:** Create, Read, Update, and Delete (CRUD) expense records.
+* ** Responsive Design:** Built with Bootstrap 5 to work seamlessly on mobile and desktop.
+* ** Containerized:** Fully Dockerized application ensuring consistency across development and production environments.
 
 ---
 

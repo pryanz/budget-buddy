@@ -11,7 +11,7 @@ It features secure user authentication, a responsive dashboard, and a containeri
 
 ## Live Demo
 
-**[View the Live Application Here]([https://your-app-name.onrender.com](https://budget-buddy-demo-pryanz.onrender.com))** *(Note: Hosted on Render Free Tier. Please allow up to 50 seconds for the server to wake up.)*
+**[View the Live Application Here]([https://budget-buddy-demo-pryanz.onrender.com])** *(Note: Hosted on Render Free Tier. Please allow up to 50 seconds for the server to wake up.)*
 
 ---
 
